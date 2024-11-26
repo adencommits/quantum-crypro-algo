@@ -1,11 +1,11 @@
-```markdown
+
 # Cryptocurrency Quantum Trading Algorithm
 
 This project implements a cryptocurrency trading system that leverages quantum machine learning (QML) to predict and trade on Bitcoin (BTC) and Ethereum (ETH) based on historical data. The system comprises several Python scripts that handle data collection, preprocessing, model training, evaluation, and real-time backtesting. Below is a detailed description of the system's structure and the functionality of each script.
 
 ## Directory Structure
 
-```plaintext
+
 cryptocurrency-quantum-trading/
 │
 ├── data/
